@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Welcome to My Personal Website! 🌟
 
 Hello! I'm Eric Zhang, a first-year master's student at Brown University Data Science Institute. I'm a passionate data scientist with a knack for solving problems and creating innovative solutions. Welcome to my corner of the internet!
